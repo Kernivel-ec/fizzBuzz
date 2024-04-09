@@ -1,6 +1,7 @@
 package com.kernivel.fizzbuzz;
 /**
  * @author ING. Roberto Calero
+ * www.kernivel.com
  */
 
 /*
